@@ -5,8 +5,6 @@
 
 - 🔭 Full stack Developer 
 
-- 👨‍💻 All of my projects are available at [fayizcj.in](fayizcj.in)
-
 - 💬 Ask me about **Self-taught MERN Full Stack developer with 1 year of Project experience. I have a solid grasp of REST APIs, NoSQL databases, Node.js, React.js, and more. I possess a strong technical foundation in software development and the ability to work effectively within a large team. I am skilled in multitasking and time management**
 
 - 📫 How to reach me **fayizcj94@gmail.com**
