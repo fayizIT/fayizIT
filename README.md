@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **fayizcj94@gmail.com**
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- HTML -->
@@ -21,11 +20,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <!-- Bootstrap -->
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <!-- Tailwind CSS -->
-  <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <!-- JavaScript -->
@@ -35,6 +34,10 @@
   <!-- React.js -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -64,44 +67,27 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <!-- ESLint -->
+  <a href="https://eslint.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
   </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <!-- Prettier -->
+  <a href="https://prettier.io" target="_blank" rel="noreferrer">
+    <img src="https://prettier.io/icon.png" alt="prettier" width="40" height="40"/>
   </a>
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <!-- Babel -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+  <!-- Jest -->
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://jestjs.io/img/jest.png" alt="jest" width="40" height="40"/>
   </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <!-- Illustrator -->
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <!-- Nginx -->
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <!-- Add more tools as needed -->
 </p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayizit&" alt="fayizit" /></p>
